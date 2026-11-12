@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/layouts.json",
+    "sha256": "3375fe861d07747e5b09c970a6463e4ecf0fcf3b37bec874a7b920a9fdc6aaa5",
+    "size_bytes": 794
+  },
+  {
+    "path": "fixtures/packets.json",
+    "sha256": "cba459447139eb65f8dbc415c9e80ce042a35c0f87a47f7c78249f4fc85e54ad",
+    "size_bytes": 223
+  }
+]
